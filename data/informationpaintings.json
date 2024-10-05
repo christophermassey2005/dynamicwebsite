@@ -1,0 +1,143 @@
+{
+  "paintings": [
+    {
+      "id": "1",
+      "name": "Mona Lisa",
+      "artist": "Leonardo da Vinci",
+      "heading": "Description",
+      "description": "The 'Mona Lisa' is one of the most widely recognized artworks in the world, known for its enigmatic subject's gaze and smile. It was painted by Leonardo da Vinci, a critical figure in the High Renaissance. The painting's simplicity belies Leonardo’s talent for realism. The subject’s softly modeled face shows his skillful handling of sfumato, an artistic technique that uses subtle gradations of light and shadow, rather than line, to model form.",
+      "year": "It was painted between 1503-1506.",
+      "location": "Louvre Museum, Paris"
+    },
+
+    {
+      "id": "2",
+      "name": "The Last Supper",
+      "artist": "Leonardo da Vinci",
+      "heading": "Description",
+      "description": "The Last Supper, one of the most famous artworks in the world, was painted by Leonardo da Vinci probably between 1495 and 1498. It depicts the dramatic scene described in several closely connected moments in the Gospels, including Matthew 26:21–28, in which Jesus declares that one of the Apostles will betray him and later institutes the Eucharist.",
+      "year": "It was painted between 1495-1498.",
+      "location": "Santa Maria delle Grazie, Milan"
+    },
+    {
+      "id": "3",
+      "name": "Da Vinci (alleged) self portrait",
+      "artist": "Leonardo da Vinci",
+      "heading": "Description",
+      "description": "This self portrait was painted in 1512 using red chalk, when Leonardo da Vinci was 50 and living in France. The original painting measures 33.3 x 21.3 cm (13 1/8 x 8 3/8 in). It is now held in the magnificent collection of the Biblioteca Reale, Turin.",
+      "year": "It was painted in 1512.",
+      "location": "Biblioteca Reale, Turin"
+    },
+    {
+      "id": "4",
+      "name": "Starry Night",
+      "artist": "Vincent Van Gogh",
+      "heading": "Description",
+      "description": "The Starry Night is an oil-on-canvas painting by the Dutch Post-Impressionist painter Vincent van Gogh. Painted in June 1889, it depicts the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence, just before sunrise, with the addition of an imaginary village.",
+      "year": "Painted in June 1889",
+      "location": "Museum of Modern Art, New York"
+    },
+    {
+      "id": "5",
+      "name": "Sunflowers",
+      "artist": "Vincent Van Gogh",
+      "heading": "Description",
+      "description": "Sunflowers is the title of two series of still life paintings by the Dutch painter Vincent van Gogh. The first series, executed in Paris in 1887, depicts the flowers lying on the ground, while the second set, made a year later in Arles, shows a bouquet of sunflowers in a vase.",
+      "year": "Painted in 1887 and 1888",
+      "location": "Neue Pinakothek, Munich"
+    },
+    {
+      "id": "6",
+      "name": "Vincent Van Gogh - Self Portrait",
+      "artist": "Vincent Van Gogh",
+      "heading": "Description",
+      "description": "Dutch Post-Impressionist painter Vincent van Gogh painted a self-portrait in oil on canvas in September 1889. The work, which may have been Van Gogh's last self-portrait, was painted shortly before he left Saint-Rémy-de-Provence in southern France.",
+      "year": "Painted in September 1889",
+      "location": "Musée d'Orsay in Paris"
+    },
+    
+        {
+      "id": "7",
+      "name": "Guernica",
+      "artist": "Picasso",
+      "heading": "Description",
+      "description": "This is a large black-and-white oil painting executed by Spanish artist Pablo Picasso in 1937 following the German bombing of Guernica, a city in Spain’s Basque region. The complex painting received mixed reviews when it was shown in the Spanish Republic Pavilion at the world’s fair in Paris.",
+      "year": "Painted in 1937",
+      "location": "Reina Sofia Museum, Madrid, Spain"
+    },
+    {
+      "id": "8",
+      "name": "Weeping Woman",
+      "artist": "Picasso",
+      "heading": "Description",
+      "description": "This artwork was created in 1937 and depicts Dora Maar, Picasso's mistress and muse. The painting is housed in the Tate Modern in London.",
+      "year": "Created in 1937",
+      "location": "Tate Modern, London, UK"
+    },
+    {
+      "id": "9",
+      "name": "Jacqueline With Flowers",
+      "artist": "Picasso",
+      "heading": "Description",
+      "description": "This painting was completed in 1954 and celebrates the entry of Picasso's new companion, Jacqueline Roque, into his painting. The artwork is currently located in the Musée Picasso, Paris, France.",
+      "year": "Completed in 1954",
+      "location": "Musée Picasso, Paris, France"
+    },
+    {
+      "id": "10",
+      "name": "Water Lillies",
+      "artist": "Claude Monet",
+      "heading": "Description",
+      "description": "This is a series of oil paintings created by Monet after 1916. The paintings depict the water lily pond in his garden.",
+      "year": "Created after 1916",
+      "location": "Various locations worldwide"
+    },
+    {
+      "id": "11",
+      "name": "Impression, Sunrise",
+      "artist": "Claude Monet",
+      "heading": "Description",
+      "description": "This painting was created in 1872 and shows a harbor in Le Havre, with the sun rising over the anchored ships. The painting is currently located in the Musée Marmottan Monet, Paris.",
+      "year": "Created in 1872",
+      "location": "Musée Marmottan Monet, Paris, France"
+    },
+    {
+      "id": "12",
+      "name": "Lily Pads",
+      "artist": "Claude Monet",
+      "heading": "Description",
+      "description": "This is likely another painting from Monet's Water Lilies series, which depicts the water lily pond in his garden.",
+      "year": "Year not specified",
+      "location": "Various locations worldwide"
+    },
+    {
+      "id": "13",
+      "name": "David",
+      "artist": "Michelangelo",
+      "heading": "Description",
+      "description": "This is a marble sculpture executed from 1501 to 1504 by the Italian Renaissance artist Michelangelo. The statue is currently located in the Galleria dell'Accademia, Florence, Italy.",
+      "year": "Created from 1501 to 1504",
+      "location": "Galleria dell'Accademia, Florence, Italy"
+    },
+    {
+      "id": "14",
+      "name": "Sistene Chapel Ceiling",
+      "artist": "Michelangelo",
+      "heading": "Description",
+      "description": "This is a cornerstone work of High Renaissance art, painted in fresco by Michelangelo between 1508 and 1512. The ceiling is located in the Sistine Chapel, part of Vatican Museums, Vatican City.",
+      "year": "Painted between 1508 and 1512",
+      "location": "Sistine Chapel, Vatican City"
+    },
+    {
+      "id": "15",
+      "name": "Madonna of the Stairs",
+      "artist": "Michelangelo",
+      "heading": "Description",
+      "description": "This is a relief sculpture by Michelangelo, believed to have been sculpted around 1490, when Michelangelo was about fifteen. The sculpture is exhibited at the Casa Buonarroti in Florence, Italy.",
+      "year": "Sculpted around 1490",
+      "location": "Casa Buonarroti, Florence, Italy"
+    }
+    
+    
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "artists": [
+    {
+      "id": "1",
+      "name": "Leonardo da Vinci",
+      "known_for": "Mona Lisa, The Last Supper  ",
+      "heading1": "Childhood",
+      "description1": "Leonardo da Vinci was born on April 15, 1452, in Vinci, Italy. He was the illegitimate child of Ser Piero, a notary, and a woman named Caterina. His father took him into his home when Leonardo was three years old. Before then, he may have been living with his mother. Leonardo probably spent most of his childhood with his paternal uncle Francesco, who was a farmer. Leonardo likely spent a great deal of his childhood outdoors, observing nature.",
+      "heading2": "Era of Art",
+      "description2": "Leonardo da Vinci was a critical figure in the High Renaissance, an era that lasted from the early 1490s to 1527. His skill and intelligence epitomized the Renaissance humanist ideal. His work had enormous influence on subsequent artists.",
+      "heading3": "Famous Paintings",
+      "description3": "Leonardo da Vinci is best known for his paintings 'Mona Lisa' and 'The Last Supper'. The 'Mona Lisa' is known for its enigmatic subject's gaze and smile, and is one of the most widely recognized artworks in the world. 'The Last Supper' is a religious fresco that is one of the most reproduced religious paintings of all time."
+    },
+    {
+      "id": "2",
+      "name": "Vincent van Gogh",
+      "known_for": "Starry Night, Sunflowers     ",
+      "heading1": "Childhood",
+      "description1": "Vicent Van Gogh was born on the 20th March 1853 in Zundert, the Netherlands. Van Gogh was homseschooled but later attended boarding school. His interest in art began at a young age - and he was encouraged by his mother to pursue art. He later got a job at an art dealer where he was successfull at his work and earned more than his father. Eventuallly, he returned to England and worked as a supply teacher in a small boarding school. It was during this time that he decided to become an artist.",
+      "heading2": "Era of Art",
+      "description2": "Van Gogh worked during the Post-Impressionalism art movement. It was a reaction to the natural-look of Impressionsim. This era was important due to the fact that it marked the change from art simply being a realistic representation of the world to a representation of the thoughts and feelings of the artist itself - which is ultimately what Van Gogh was best known for.",
+      "heading3": "Famous Paintings",
+      "description3": "Van Gogh is perhaps best known for Starry Night (1889). This came as a result of a breadkdown in December 1888 which resulted in the self-mutilation of his left ear - and subsequently admitted himself to a lunatic asylum. It was during this time that he created the Starry Night."
+    },
+    {
+      "id": "3",
+      "name": "Pablo Picasso",
+      "known_for": "Guernica, The Weeping Woman     ",
+      "birth_place": "Málaga, Spain",
+      "art_era": "Cubism, Surrealism",
+      "heading1": "Childhood",
+      "description1": "Pablo Picasso was born on October 25, 1881, in Málaga, Spain. He was the son of José Ruiz Blasco, an art instructor, and Maria Picasso López. Picasso began to draw under his father's tutelage and studied in various art schools between 1892 and 1897, including academies in Barcelona and Madrid. Picasso did not like school very much, he was bored and did not concentrate. In class, he spent his time drawing and cutting out figures from paper. At the age of 8, Picasso painted his first oil painting. It was entitled “The Little Yellow Picador”.",
+      "heading2": "Era of Art",
+      "description2": "Picasso was a critical figure in the Cubism and Surrealism movements that explored the significance of geometric shapes in the context of painting. This technique has been, and still is used by many artists today who want to stress functionality over beauty. Picasso was a pioneer of these movements that broke the stranglehold of representational subject matter on art, and set the tempo for other 20th-century artists.",
+      "heading3": "Famous Paintings",
+      "description3": "Picasso is best known for his paintings 'Guernica' and 'The Weeping Woman'. 'Guernica' was created in response to the bombing of Guernica, a Basque Country town in northern Spain, by German planes commanded by General Franco during the Spanish Civil War. It depicts the tragedy and suffering of war with startling power. 'The Weeping Woman' is one of Picasso’s most famous works and is a portrait of Picasso’s lover at the time, Dora Maar."
+    },
+    {
+      "id": "4",
+      "name": "Claude Monet",
+      "known_for": "Water Lilies, Impression, Sunrise",
+      "birth_place": "Paris, France",
+      "art_era": "Impressionism",
+      "heading1": "Childhood",
+      "description1": "Claude Monet was born on November 14, 1840, in Paris, France. He was the son of Adolphe Monet, a grocer. When he was five years old, his family moved to the Normandy coast, near Le Havre, France. His childhood was spent along the beaches, and the intimate knowledge he gained of the sea and the rapidly shifting Norman weather later influenced his art. By the time he was fifteen, Monet had become popular as a caricaturist.",
+      "heading2": "Era of Art",
+      "description2": "Monet was a critical figure in the Impressionism movement that explored the significance of light, color, and the changing seasons in the context of painting. This technique has been, and still is used by many artists today who want to stress functionality over beauty. Monet was a pioneer of this movement that broke the stranglehold of representational subject matter on art, and set the tempo for other 20th-century artists.",
+      "heading3": "Famous Paintings",
+      "description3": "Monet is best known for his paintings 'Water Lilies' and 'Impression, Sunrise'. 'Water Lilies' is a series of approximately 250 oil paintings that were inspired by the beautiful garden and lily pond at his home in Giverny. 'Impression, Sunrise' is credited with inspiring the name of the Impressionist movement."
+    },
+    {
+      "id": "5",
+      "name": "Michelangelo",
+      "known_for": "David, Sistine Chapel Ceiling    ",
+      "birth_place": "Caprese, Republic of Florence [Italy]",
+      "art_era": "High Renaissance",
+      "heading1": "Childhood",
+      "description1": "Michelangelo was born on March 6, 1475, in Caprese, a town near Arezzo, in Tuscany. His family were bankers in Florence, but his father decided to enter a government post when the bank industry failed. When he was born, his father served as the judicial administrator at Caprese. Michelangelo lived a comfortable life during his childhood. He was taught at home by his mother and a governess, and in 1860, was sent to the village school. In 1864, he was placed in a boarding school at Zevenbergen, where he felt abandoned, and he campaigned to come home. Instead, in 1866, his parents sent him to the middle school in Tilburg, where he was also deeply unhappy. His interest in art began at a young age. He was encouraged to draw as a child by his mother, and his early drawings are expressive, but do not approach the intensity of his later work.",
+      "heading2": "Era of Art",
+      "description2": "Michelangelo was a critical figure in the High Renaissance, an era that lasted from the early 1490s to 1527. His skill and intelligence epitomized the Renaissance humanist ideal. His work had enormous influence on subsequent artists.",
+      "heading3": "Famous Paintings",
+      "description3": "Michelangelo is best known for his sculptures 'David' and the frescoes on the 'Sistine Chapel Ceiling'. 'David' is a representation of the biblical hero and is considered one of the most famous sculptures of the Renaissance. The frescoes on the 'Sistine Chapel Ceiling' are probably the best known of his works, the artist thought of himself primarily as a sculptor."
+    }
+  ]
+}

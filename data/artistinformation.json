@@ -1,0 +1,26 @@
+{
+  "artists": [
+    {
+      "ID": 1,
+      "images": ["/data/1.jpg", "/data/leonardo2.jpg", "/data/leonardo3.jpg"]
+ 
+    },
+    {
+      "ID": 2,
+      "images": ["/data/2.jpg", "/data/leonardo2.jpg", "/data/leonardo3.jpg"]
+    },
+    {
+      "ID": 3,
+      "images": ["/data/3.jpg", "/data/leonardo2.jpg", "/data/leonardo3.jpg"]
+    },
+    {
+      "ID": 4,
+      "images": ["/data/4.jpg", "/data/leonardo2.jpg", "/data/leonardo3.jpg"]
+    },
+    {
+      "ID": 5,
+      "images": ["/data/leonardo1.jpg", "/data/leonardo2.jpg", "/data/leonardo3.jpg"]
+    }
+  ]
+}
+

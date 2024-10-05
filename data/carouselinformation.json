@@ -1,0 +1,25 @@
+{
+  "artists": [
+    {
+      "ID": 1,
+      "description": "Leonardo da Vinci, an Italian polymath, was known for his art, engineering, and scientific insights. His works, such as the Last Supper and Mona Lisa, are iconic."
+    },
+    {
+      "ID": 2,
+      "description": "Vincent van Gogh, a Dutch Post-Impressionist painter, used bold colors and brushwork. His art, gaining popularity after his death, has influenced modern art."
+    },
+    {
+      "ID": 3,
+      "description": "Pablo Picasso, a Spanish artist, was a key figure in 20th-century art. He co-founded Cubism and his diverse work continues to inspire artists today through its design"
+    },
+    {
+      "ID": 4,
+      "description": "Claude Monet, a French painter, founded the Impressionist movement. His work, especially his depiction of nature, paved the way for modernism in art."
+    },
+    {
+      "ID": 5,
+      "description": "Michelangelo, an Italian Renaissance artist, was a master of many trades. His influence on Western art is unparalleled, making him one of the greatest artists ever."
+    }
+  ]
+}
+
